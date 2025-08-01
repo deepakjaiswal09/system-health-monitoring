@@ -7,12 +7,6 @@ This project demonstrates how to monitor an Express.js application using **Prome
 
 ---
 
-## 📚 Context
-
-This project was developed as part of a group assignment under the **Database Management System (DBMS)** course. The assignment was allotted by the department, and I actively contributed to the design, development, monitoring, and containerization setup.
-
----
-
 ## 🚀 Features
 
 - 🌐 Express server with `/` and `/slow` endpoints  
@@ -137,7 +131,6 @@ Grafana is preconfigured to:
 ## 👨‍💻 Author
 
 **Deepak Jaiswal**  
-🎓 Developed as part of a group DBMS project  
 🔗 [GitHub](https://github.com/deepakjaiswal09)  
 💼 [LinkedIn](https://linkedin.com/in/deepakjaiswal09)  
 📧 Email: deepakjaiswal9238@gmail.com  
